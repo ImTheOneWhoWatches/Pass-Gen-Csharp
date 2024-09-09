@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/a931e714-5513-480a-9a2f-cd4b6e26a718)
 
 I HAVE PERMISSION
+
+
 (A VERSION OF https://github.com/KernFerm/Pass-Gen)
 
 Secure Password Management Software License Version 1.1, June 2024
